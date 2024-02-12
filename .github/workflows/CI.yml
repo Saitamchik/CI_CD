@@ -26,4 +26,4 @@ jobs:
       uses: microsoft/setup-msbuild@v1.3.1
     # Запуск юнит-тестов
     - name: Run unit tests
-      run: dotnet test ProjectSnakeTest/ProjectSnakeTest.cpp
+      run: dotnet test x64/Debug/ProjectSnakeTest.dll --configuration Release
