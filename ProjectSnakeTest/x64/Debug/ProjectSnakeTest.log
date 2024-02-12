@@ -1,15 +1,16 @@
-﻿  ProjectSnakeTest.cpp
-C:\Users\Savva\Desktop\ООП\ProjectSnake\ProjectSnake\game.cpp(215,49): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
-C:\Users\Savva\Desktop\ООП\ProjectSnake\ProjectSnake\game.cpp(215,37): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
-C:\Users\Savva\Desktop\ООП\ProjectSnake\ProjectSnake\game.cpp(225,81): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
-C:\Users\Savva\Desktop\ООП\ProjectSnake\ProjectSnake\game.cpp(225,54): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
-C:\Users\Savva\Desktop\ООП\ProjectSnake\ProjectSnake\game.cpp(235,84): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
-C:\Users\Savva\Desktop\ООП\ProjectSnake\ProjectSnake\game.cpp(235,57): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
-C:\Users\Savva\Desktop\ООП\ProjectSnake\ProjectSnake\game.cpp(240,63): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
-C:\Users\Savva\Desktop\ООП\ProjectSnake\ProjectSnake\game.cpp(240,40): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
-C:\Users\Savva\Desktop\ООП\ProjectSnake\ProjectSnake\game.cpp(248,75): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
-C:\Users\Savva\Desktop\ООП\ProjectSnake\ProjectSnake\game.cpp(248,51): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
-C:\Users\Savva\Desktop\ООП\ProjectSnake\ProjectSnake\game.cpp(253,78): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
-C:\Users\Savva\Desktop\ООП\ProjectSnake\ProjectSnake\game.cpp(253,54): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
-     Создается библиотека C:\Users\Savva\Desktop\ООП\ProjectSnake\x64\Debug\ProjectSnakeTest.lib и объект C:\Users\Savva\Desktop\ООП\ProjectSnake\x64\Debug\ProjectSnakeTest.exp
-  ProjectSnakeTest.vcxproj -> C:\Users\Savva\Desktop\ООП\ProjectSnake\x64\Debug\ProjectSnakeTest.dll
+﻿  pch.cpp
+  ProjectSnakeTest.cpp
+C:\Users\Savva\Desktop\CI\ProjectSnake\game.cpp(215,49): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Savva\Desktop\CI\ProjectSnake\game.cpp(215,37): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Savva\Desktop\CI\ProjectSnake\game.cpp(225,81): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Savva\Desktop\CI\ProjectSnake\game.cpp(225,54): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Savva\Desktop\CI\ProjectSnake\game.cpp(235,84): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Savva\Desktop\CI\ProjectSnake\game.cpp(235,57): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Savva\Desktop\CI\ProjectSnake\game.cpp(240,63): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Savva\Desktop\CI\ProjectSnake\game.cpp(240,40): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Savva\Desktop\CI\ProjectSnake\game.cpp(248,75): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Savva\Desktop\CI\ProjectSnake\game.cpp(248,51): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Savva\Desktop\CI\ProjectSnake\game.cpp(253,78): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Savva\Desktop\CI\ProjectSnake\game.cpp(253,54): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     Создается библиотека C:\Users\Savva\Desktop\CI\x64\Debug\ProjectSnakeTest.lib и объект C:\Users\Savva\Desktop\CI\x64\Debug\ProjectSnakeTest.exp
+  ProjectSnakeTest.vcxproj -> C:\Users\Savva\Desktop\CI\x64\Debug\ProjectSnakeTest.dll
