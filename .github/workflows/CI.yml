@@ -1,0 +1,29 @@
+# Название нашего ci 
+name: CI
+
+# Задает условия для запуска CI процесса. 
+on:
+  push:
+    branches:
+      - '*'
+
+# Определяет список заданий, которые должны выполняться в рамках CI процесса
+jobs:
+  # Задает имя задания
+  build:
+    # Определяет операционную систему, на которой будет выполняться CI процесс
+    runs-on: [windows-latest]
+    # Определяет список шагов, которые нужно выполнить в рамках задания
+    steps:
+    # Клонирование репозитория в рабочую директорию CI процесса
+    - name: Checkout repository
+      uses: actions/checkout@v2
+    # Настройка MSBuild
+    - name: Setup MSBuild
+      uses: microsoft/setup-msbuild@v1
+    # Сборка решения
+    - name: Build the solution
+      uses: microsoft/setup-msbuild@v1.3.1
+    # Запуск юнит-тестов
+    - name: Run unit tests
+      run: dotnet test FormatterTests/FormatterTests.csproj --configuration Release
